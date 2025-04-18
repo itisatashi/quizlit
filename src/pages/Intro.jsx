@@ -16,7 +16,7 @@ export default function Intro() {
           <LuLogIn />
           Login
         </Link>
-        <Link className="button">
+        <Link className="button" to="/register">
           <LuUserPlus />
           Register
         </Link>
